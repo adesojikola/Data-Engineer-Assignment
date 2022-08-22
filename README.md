@@ -3,4 +3,4 @@ Using the Marvel API https://developer.marvel.com/docs) to collect the data nece
     The Marvel Comics API allows developers everywhere to 
 access information about Marvel’s vast library of comics. 
 
-https://github.com/adesojikola/Data-Engineer-Assignment/blob/main/calidraw/Data%20Engineer%20Assessment.excalidraw.png
+![Data Engineer Assessment excalidraw](https://user-images.githubusercontent.com/22365757/185913909-7990c6d6-f16e-45dc-9178-7d7e080f4f46.png)
